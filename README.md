@@ -23,3 +23,5 @@ Centralizar e padronizar todos os documentos internos da empresa — como Manual
 
 ## Histórico
 Seção adicionada para controle de alterações.
+
+Documento atualizado para fins de organização interna.
